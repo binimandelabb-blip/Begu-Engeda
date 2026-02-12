@@ -1,0 +1,8 @@
+{
+  "name": "Begu Engeda - Hotel Guest Management System",
+  "description": "A professional guest registration and tracking system for Benishangul Gumuz Region Police Commission. Facilitates real-time guest reporting and wanted person alerts.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
